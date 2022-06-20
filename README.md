@@ -1,12 +1,10 @@
-# Desafio Hora do Dia
+# Desafio Verificador de Idade
 
 - Desafio proposto em curso, aplicando algumas tecnologias que aprendi no decorrer do curso de HTML & CSS do Curso em Vídeo, junto do Bootcamp Santander Fullstack.
   </br>
 - Utilizei Flex box para posicionar e alinhar os elementos à tela.
   </br>
-- Acrescentando no JavaScript, os minutos ao invés de deixar apenas a hora cheia.
-  </br>
-- Eliminando as duas primeiras variáveis propostas pelo professor em aula, afim de reduzir código, pegando os elementos para aplicar a imagem e o texto diretamente na Div do HTML.
+- Acrescentando no JavaScript, let ao invés de var, como proposto em aula.
 
 ## Links das páginas ativas
 
