@@ -12,4 +12,4 @@ Abaixo poderá acessar o link do desafio para uma página ativa do projeto, com 
 
 ## 🚀 Let's code! 🚀
 
-[Página ativa do Desafio](https://gustavoferreiradeveloper.github.io/hora-do-dia/)
+[Página ativa do Desafio](https://gustavoferreiradeveloper.github.io/verificador-de-idade/)
